@@ -1,8 +1,8 @@
 ## Ahoj, jsem Kamil Kotlář 👋
 
-🎯 Junior programátor Pythonu, který mění kariéru po 30 letech ve strojírenství  
+🎯 Junior Python Developer, který mění kariéru po 30 letech v metrologii  
 🧠 Absolvent rekvalifikačního kurzu SDA Czech Republic  
-🚀 Otevřen novým příležitostem jako junior developer
+🚀 Otevřen novým příležitostem jako Junior Python Developer
 
 ## 🛠️ Technologie
 - Python | Django | SQL | SQLite
