@@ -1,16 +1,17 @@
-## Hi there 👋
+## Ahoj, jsem Kamil Kotlář 👋
 
-<!--
-**Kamo-73/Kamo-73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Junior programátor Pythonu, který mění kariéru po 30 letech ve strojírenství  
+🧠 Absolvent rekvalifikačního kurzu SDA Czech Republic  
+🚀 Otevřen novým příležitostem jako junior developer
 
-Here are some ideas to get you started:
+## 🛠️ Technologie
+- Python | Django | SQL | SQLite
+- HTML | CSS | JavaScript
+- Git | GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Projekty
+- [Kniharium](https://github.com/Kamo-73/Kniharium) – Python, Django aplikace (knižní databáze)
+
+## 📫 Kontakt
+- LinkedIn: [linkedin.com/in/k-kotlar](https://linkedin.com/in/k-kotlar)
+- Email: kotlar.kamil@gmail.cz
